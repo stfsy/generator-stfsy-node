@@ -1,6 +1,6 @@
 {
   "name": "generator-stfsy-node",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple generator for plain node modules with test, release and documentation workflows",
   "scripts": {
     "version": "npm run changelog && git add -A CHANGELOG.md",
