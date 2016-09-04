@@ -80,7 +80,7 @@ module.exports = generators.Base.extend({
                 this.destinationPath('.travis.yml'), this)
         },
         gitignore: function () {
-            this.fs.copyTpl(this.templatePath('.gitignore'),
+            this.fs.copyTpl(this.templatePath('gitignore'),
                 this.destinationPath('.gitignore'), this)
         },
         indexjs: function () {
