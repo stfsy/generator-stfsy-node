@@ -1,0 +1,37 @@
+{
+  "name": "generator-stfsy-node",
+  "version": "0.0.0",
+  "description": "Simple generator for plain node modules with test, release and documentation workflows",
+  "scripts": {
+    "version": "npm run changelog && git add -A CHANGELOG.md",
+    "postversion": "git push && git push --tags",
+    "release-major": "npm version major -m \"chore(release): v%s\"",
+    "release-minor": "npm version minor -m \"chore(release): v%s\"",
+    "release-patch": "npm version patch -m \"chore(release): v%s\"",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r"
+  },
+  "files": [
+    "generators/app"
+  ],
+  "bugs": {
+    "url": "https://github.com/stfsy/generator-stfsy-node/issues"
+  },
+  "homepage": "https://github.com/stfsy/generator-stfsy-node#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stfsy/generator-stfsy-node"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Stefan Pfaffel",
+  "license": "MIT",
+  "dependencies": {
+    "underscore.string": "^3.3.4",
+    "yeoman-generator": "^0.24.1",
+    "yosay": "^1.2.0"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^1.2.0"
+  }
+}
