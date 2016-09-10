@@ -37,14 +37,14 @@ The generated project has the following the structure:
 The generated project is preconfigured with the following scripts:
 * **changelog** _to generate the changelog for the current version_
 * **coverage** _to generate the code coverage for a test run_
-* **docs** _to generate jsdoc for modules_
+* **docs** _to generate jsdoc application code_
 * **release-patch** _to release a new patch version to github_
     * calls version, test and changelog
 * **release-minor** _to release a new minor version to github_
     * calls version, test and changelog
 * **release-major** _to release a new major version to github_
     * calls version, test and changelog
-* **setup** _to onetime setup the github repository with am initial tag_
+* **setup** _to onetime setup the github repository with an initial tag_
 * **test** _to run tests a single time_
 * **test-watch** _to watch for file changes and run tests_
 
