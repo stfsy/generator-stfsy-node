@@ -1,3 +1,19 @@
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.1.1...v0.2.0) (2016-09-10)
+
+
+### Bug Fixes
+
+* **test:** fix nested tests are not executed ([3f071c0](https://github.com/stfsy/generator-stfsy-node/commit/3f071c0))
+
+
+### Features
+
+* **docs:** read from input folder recursively ([97bc917](https://github.com/stfsy/generator-stfsy-node/commit/97bc917))
+* **test-watch:** watch test and lib folder ([0b85ed3](https://github.com/stfsy/generator-stfsy-node/commit/0b85ed3))
+
+
+
 <a name="0.1.1"></a>
 ## [0.1.1](https://github.com/stfsy/generator-stfsy-node/compare/v0.1.0...v0.1.1) (2016-09-04)
 
