@@ -1,3 +1,13 @@
+<a name="0.4.1"></a>
+## [0.4.1](https://github.com/stfsy/generator-stfsy-node/compare/v0.4.0...v0.4.1) (2017-02-12)
+
+
+### Features
+
+* **package.json:** add push-docs script ([6969873](https://github.com/stfsy/generator-stfsy-node/commit/6969873))
+
+
+
 <a name="0.4.0"></a>
 # [0.4.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.3.0...v0.4.0) (2017-02-12)
 
