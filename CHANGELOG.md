@@ -1,3 +1,18 @@
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.2.0...v0.3.0) (2017-02-12)
+
+
+### Bug Fixes
+
+* **package.json:** fix git push misses remote branch ([e5bbbdc](https://github.com/stfsy/generator-stfsy-node/commit/e5bbbdc))
+
+
+### Features
+
+* **index.js:** copy gh pages publish script ([f86cf6e](https://github.com/stfsy/generator-stfsy-node/commit/f86cf6e))
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.1.1...v0.2.0) (2016-09-10)
 
