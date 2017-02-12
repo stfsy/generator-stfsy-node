@@ -1,3 +1,13 @@
+<a name="0.4.0"></a>
+# [0.4.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.3.0...v0.4.0) (2017-02-12)
+
+
+### Features
+
+* **.travis.yml:** test node 7, too ([d01da2f](https://github.com/stfsy/generator-stfsy-node/commit/d01da2f))
+
+
+
 <a name="0.3.0"></a>
 # [0.3.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.2.0...v0.3.0) (2017-02-12)
 
