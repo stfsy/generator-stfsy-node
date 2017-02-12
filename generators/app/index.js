@@ -75,6 +75,10 @@ module.exports = generators.Base.extend({
             this.fs.copyTpl(this.templatePath('LICENSE'),
                 this.destinationPath('LICENSE'), this)
         },
+        publishGhPages: function () {
+            this.fs.copyTpl(this.templatePath('.publish-gh-pages.js'),
+                this.destinationPath('.publish-gh-pages.js'), this)
+        },
         travis: function () {
             this.fs.copyTpl(this.templatePath('.travis.yml'),
                 this.destinationPath('.travis.yml'), this)
