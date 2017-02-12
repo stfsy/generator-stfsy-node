@@ -12,6 +12,7 @@
         "preversion": "npm run test",
         "version": "npm run changelog && git add -A CHANGELOG.md",
         "postversion": "git push origin master && git push origin master --tags",
+        "push-docs": "node .publish-gh-pages",
         "release-major": "npm version major -m \"chore(release): v%s\"",
         "release-minor": "npm version minor -m \"chore(release): v%s\"",
         "release-patch": "npm version patch -m \"chore(release): v%s\"",
