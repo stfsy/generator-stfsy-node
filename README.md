@@ -15,7 +15,8 @@ A generator for plain node modules with test, ci, release and documentation work
 The generated project comes with:
 * Changelog Configuration
 * Istanbul Code Coverage Configuration
-* JsDoc Configuration
+* JsDoc Gen Configuration
+* JsDoc Push Configuration
 * Mocha Test Configuration
 * Travis CI Configuration
 
@@ -38,6 +39,7 @@ The generated project is preconfigured with the following scripts:
 * **changelog** _to generate the changelog for the current version_
 * **coverage** _to generate the code coverage for a test run_
 * **docs** _to generate jsdoc application code_
+* **push-docs** _to push generated js doc to gh-pages branch_
 * **release-patch** _to release a new patch version to github_
     * calls version, test and changelog
 * **release-minor** _to release a new minor version to github_
