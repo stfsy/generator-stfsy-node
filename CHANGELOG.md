@@ -1,3 +1,8 @@
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.5.0...v1.0.0) (2017-10-13)
+
+
+
 <a name="0.5.0"></a>
 # [0.5.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.4.1...v0.5.0) (2017-10-13)
 
