@@ -1,3 +1,16 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.4.1...v1.1.0) (2017-11-29)
+
+
+### Features
+
+* update .gitignore ([c1ef16d](https://github.com/stfsy/generator-stfsy-node/commit/c1ef16d))
+* update chai version ([17d47cf](https://github.com/stfsy/generator-stfsy-node/commit/17d47cf))
+* update mocha version ([5fd6ee6](https://github.com/stfsy/generator-stfsy-node/commit/5fd6ee6))
+* update watch version ([a9c4140](https://github.com/stfsy/generator-stfsy-node/commit/a9c4140))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.5.0...v1.0.0) (2017-10-13)
 
