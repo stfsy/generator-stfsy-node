@@ -1,3 +1,15 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/stfsy/generator-stfsy-node/compare/v1.1.0...v1.2.0) (2018-12-22)
+
+
+### Features
+
+* add node 9 to travis template ([bc70839](https://github.com/stfsy/generator-stfsy-node/commit/bc70839))
+* update dependencies ([c693cdc](https://github.com/stfsy/generator-stfsy-node/commit/c693cdc))
+* update gitignore template ([a490832](https://github.com/stfsy/generator-stfsy-node/commit/a490832))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/stfsy/generator-stfsy-node/compare/v0.4.1...v1.1.0) (2017-11-29)
 
