@@ -1,3 +1,13 @@
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/stfsy/generator-stfsy-node/compare/v1.2.0...v1.3.0) (2020-03-22)
+
+
+### Features
+
+* update dependencies ([66217b6](https://github.com/stfsy/generator-stfsy-node/commit/66217b6))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/stfsy/generator-stfsy-node/compare/v1.1.0...v1.2.0) (2018-12-22)
 
