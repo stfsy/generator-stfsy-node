@@ -1,3 +1,13 @@
+# [1.5.0](https://github.com/stfsy/generator-stfsy-node/compare/v1.4.0...v1.5.0) (2021-05-13)
+
+
+### Features
+
+* update vulnerable dependencies ([79a8d74](https://github.com/stfsy/generator-stfsy-node/commit/79a8d7457d0efc9ccdd178ec1a7cafc208f068e9))
+* update vulnerable dependencies ([1f19d98](https://github.com/stfsy/generator-stfsy-node/commit/1f19d98ee65082f817b70bb5382d130e64e928b9))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/stfsy/generator-stfsy-node/compare/v1.3.0...v1.4.0) (2021-02-09)
 
