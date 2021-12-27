@@ -32,6 +32,6 @@
     "yosay": "^2.0.2"
   },
   "devDependencies": {
-    "conventional-changelog-cli": "^2.1.1"
+    "conventional-changelog-cli": "^2.2.2"
   }
 }
