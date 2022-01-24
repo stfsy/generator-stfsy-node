@@ -27,7 +27,7 @@
   "author": "Stefan Pfaffel",
   "license": "MIT",
   "dependencies": {
-    "underscore.string": "^3.3.5",
+    "underscore.string": "^3.3.6",
     "yeoman-generator": "^5.5.2",
     "yosay": "^2.0.2"
   },
